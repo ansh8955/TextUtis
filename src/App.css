@@ -47,11 +47,13 @@ h1{
 }
 
 .text-area{
-  height:310px;
+  height:270px;
   width:750px;
   font-size: 20px;
   box-shadow: 5px 5px 10px 0px rgba(159, 155, 159, 0.2),
   inset -5px -5px 10px 0px rgba(223, 141, 192, 0.2);
+  border-radius: 0.5rem;
+  border: none;
 }
 
 .box{
